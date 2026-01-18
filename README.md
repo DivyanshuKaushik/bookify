@@ -183,3 +183,4 @@ Proprietary - All rights reserved
 4. Configure payment processing (Stripe integration ready)
 5. Customize branding and email templates
 # bookify
+# bookify
